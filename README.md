@@ -6,4 +6,4 @@ Grupo: 1557
 Integrantes:
 
 Espinosa Gomez Javier
-Esteban Rojas Hernandez
+Esteban Rojas Hernandez - esteban300117
