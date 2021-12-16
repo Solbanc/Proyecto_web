@@ -1,0 +1,12 @@
+/*Agregar fuentes*/
+@font-face{
+    font-family: sourcesans;
+    src:url(../fuentes/sourcesans/SourceSansPro-Regular.otf);
+    
+}
+
+@font-face{
+    font-family: sourcesans-light;
+    src:url(../fuentes/sourcesans/SourceSansPro-Light.otf);
+    
+}
