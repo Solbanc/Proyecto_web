@@ -23,10 +23,22 @@ h2 {
 }
 table {
   background-color: aquamarine;
-  border: powderblue 5px;
+  border: powderblue 5px solid;
   border-radius: 20px;
   margin: 10px 0px 50px;
 }
+
+.tablasContenido {
+  float: left;
+  margin: 20px;
+  width: 46%;
+}
+
+.imagen {
+  width: 300px;
+  padding: 15px;
+}
+
 .texto1 {
   color: white;
 }
