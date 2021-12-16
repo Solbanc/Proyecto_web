@@ -1,5 +1,5 @@
 body {
-  background-color: #2b2b2b;
+  background-color: white;
 }
 h1 {
   text-align: center;
@@ -32,12 +32,34 @@ table {
 }
 .imagenICO {
   width: 50px;
-  text-align: right;
+  padding: 10px;
+  float: left;
 }
 .imagenAragon {
   width: 75px;
+  float: right;
+}
+.tablaIco {
+  margin: -8px;
+  width: 101.22%;
+  padding: 10px;
+}
+.tr {
+  text-align: center;
+  background-color: beige;
+  width: 101.22%;
+  margin: -9px;
+}
+.ico {
+  text-align: left;
+}
+.fes {
   text-align: right;
 }
-.tamaTabla1 {
-  width: 100%;
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin: -8px;
 }
