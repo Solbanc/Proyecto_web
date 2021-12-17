@@ -7,3 +7,4 @@ Integrantes:
 
 Espinosa Gomez Javier
 Esteban Rojas Hernandez - esteban300117
+Mirsha Nohely Cortes Sanchez
