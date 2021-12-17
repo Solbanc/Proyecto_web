@@ -154,8 +154,9 @@ header #subheader nav ul li a:hover{
 /*Contenido*/
 
 #contenido{
+
     width: 700px;
-    float: left;
+    float: right;
 
 }
 
