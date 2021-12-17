@@ -10,6 +10,8 @@ table {
 h1 {
   text-align: center;
   color: white;
+  font-family: "Caveat", cursive;
+  font-size: 50px;
   border: rgb(17, 29, 31) 8px solid;
   border-radius: 20px;
   margin: 10px 100px 20px 100px;
@@ -22,6 +24,9 @@ h2 {
   color: white;
 }
 .subTitu {
+  font-family: "Courgette", cursive;
+  font-size: 20px;
+  color: rgb(197, 190, 150);
   border: rgb(25, 32, 32) 5px solid;
   border-top-left-radius: 20px;
   border-bottom-right-radius: 20px;
@@ -33,10 +38,30 @@ h2 {
 }
 
 .a {
+  background-color: black;
   border: paleturquoise 3px solid;
   border-radius: 20px;
   padding-left: 50px;
   padding-right: 50px;
+  font-family: "Fredericka the Great", cursive;
+  font-size: 18px;
+  color: white;
+}
+.p {
+  font-family: "Lemonada", cursive;
+  font-size: 18px;
+  color: white;
+}
+.p2 {
+  font-family: "Baskervville", serif;
+  font-size: 20px;
+  color: white;
+}
+.p3 {
+  font-family: "Baskervville", serif;
+  font-size: 16px;
+  color: white;
+  padding: 5px;
 }
 .tablasContenido {
   float: left;
