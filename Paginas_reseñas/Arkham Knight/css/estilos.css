@@ -60,6 +60,8 @@ header{
 
 }
 
+
+
 #logotipo a:hover{text-decoration: none;}
 
 
@@ -113,10 +115,30 @@ header #subheader nav ul li a:hover{
     float: left;
     background: #947d22;
     border: solid 20px #16171a;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
   background-image: url("https://cdn.atomix.vg/wp-content/uploads/2020/11/the-batman.jpg");
   background-repeat;
   background-size: 10rem;
+
+}
+
+#slideshows b{
+  width: 920px;
+  height: 200px;
+    font-family:sourcesans;
+    font-size: 142px;
+    color: #FCFCFC;
+    text-align:center;
+    border: solid 28px #FEF300;
+    margin-bottom: 0px;
+  background-image: url("https://cdn.atomix.vg/wp-content/uploads/2020/11/the-batman.jpg");
+  background-repeat;
+  background-size: 8rem;
+  margin: 0px 0px;
+      border-radius: 5px;
+      box-shadow: 0px 2px 2px #303840;/*Sombra*/
+
+
 
 }
 
@@ -229,7 +251,7 @@ aside .widget{
 
 aside .widget>h3{
     background: white;
-    color: #dddce0;
+    color: black;
     width: 220px;
     padding: 10px 0px;
     text-align: center;
