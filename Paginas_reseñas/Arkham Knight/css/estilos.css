@@ -4,7 +4,11 @@
 body{
     background:rgb(0, 0, 0);
     font-family:fantasy, inherit, sans-serif;
-
+      heigh:665px;
+      background-image: url("https://i0.wp.com/eltallerdehector.com/wp-content/uploads/2021/07/batman-logo-png-images-download-free.png?w=700&ssl=1");
+      background-repeat;
+      background-size: 10rem;
+    }
 }
 
 a{   text-decoration: none;
@@ -105,11 +109,14 @@ header #subheader nav ul li a:hover{
 
 #slideshow{
     width: 920px;
-    height: 260px;
+    height: 200px;
     float: left;
     background: #947d22;
     border: solid 20px #16171a;
     margin-bottom: 10px;
+  background-image: url("https://cdn.atomix.vg/wp-content/uploads/2020/11/the-batman.jpg");
+  background-repeat;
+  background-size: 10rem;
 
 }
 
