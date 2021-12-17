@@ -144,6 +144,7 @@ header #subheader nav ul li a:hover{
     color:white;
     font-size: 35px;
     margin-bottom: 10px;
+
     }
 
 #bienvenidos article {
@@ -155,14 +156,20 @@ header #subheader nav ul li a:hover{
 
 #contenido{
 
-    width: 700px;
+   padding: 20px;
+   /*background: linear-gradient(to bottom, rgb(0, 107, 252) 0%,rgb(0, 107, 252) 100%,rgb(0, 0, 0) 100%,rgb(0, 0, 0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+background-color: rgb(0, 65, 252);
+    width: 580px;
     float: right;
+    margin: 20px 0px;
+        border-radius: 5px;
+        box-shadow: 0px 2px 2px #303840;/*Sombra*/
 
 }
 
 #contenido article{
     float: left;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 
 }
 
@@ -206,7 +213,7 @@ header #subheader nav ul li a:hover{
 aside {
     width: 220px;
     float: left;
-    margin-left: 20px;
+    margin-left: 15px;
     background: #000000;
     padding: 10px 10px 0px 10px;/* arriva-px  derecha-px abajo-px izquierda-px*/
     border-radius: 5px;/*borde poniendo radios*/
