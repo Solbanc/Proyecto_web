@@ -1,33 +1,68 @@
 body {
-  background-color: white;
+  background-image: url(Estilos_imagenes/Fondo.png);
+}
+table {
+  border: rgb(0, 0, 0) 5px solid;
+  border-radius: 20px;
+  margin: 10px 0px 50px;
+  background-image: url(Estilos_imagenes/fondoResnas.jpg);
 }
 h1 {
   text-align: center;
   color: white;
-  border: powderblue 10px white;
+  font-family: "Caveat", cursive;
+  font-size: 50px;
+  border: rgb(17, 29, 31) 8px solid;
   border-radius: 20px;
   margin: 10px 100px 20px 100px;
   padding: 35px;
-  background-color: aqua;
+  background-image: url(Estilos_imagenes/fondoTitulo.jpg);
 }
+
 h2 {
   text-align: center;
   color: white;
 }
 .subTitu {
-  background-color: aquamarine;
-  border: PowderBlue 5px solid;
+  font-family: "Courgette", cursive;
+  font-size: 20px;
+  color: rgb(197, 190, 150);
+  border: rgb(25, 32, 32) 5px solid;
   border-top-left-radius: 20px;
   border-bottom-right-radius: 20px;
   margin: 10px 170px 20px 170px;
+  background-image: url(Estilos_imagenes/fondoSubtitulo.jpg);
 }
-table {
-  background-color: aquamarine;
-  border: powderblue 5px solid;
-  border-radius: 20px;
-  margin: 10px 0px 50px;
+.tablaSub {
+  margin: 25px;
 }
 
+.a {
+  background-color: black;
+  border: paleturquoise 3px solid;
+  border-radius: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-family: "Fredericka the Great", cursive;
+  font-size: 18px;
+  color: white;
+}
+.p {
+  font-family: "Lemonada", cursive;
+  font-size: 18px;
+  color: white;
+}
+.p2 {
+  font-family: "Baskervville", serif;
+  font-size: 20px;
+  color: white;
+}
+.p3 {
+  font-family: "Baskervville", serif;
+  font-size: 16px;
+  color: white;
+  padding: 5px;
+}
 .tablasContenido {
   float: left;
   margin: 20px;
@@ -36,6 +71,7 @@ table {
 
 .imagen {
   width: 300px;
+  height: 180px;
   padding: 15px;
 }
 
@@ -55,6 +91,7 @@ table {
   margin: -8px;
   width: 101.22%;
   padding: 10px;
+  background-color: whitesmoke;
 }
 .tr {
   text-align: center;
