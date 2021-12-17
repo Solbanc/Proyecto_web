@@ -1,15 +1,36 @@
 @import url('reset.css');
 @import url('fuentes.css');
 /*-- Estilos generales--*/
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
 body{
-    background:rgb(0, 0, 0);
+    /*background:rgb(0, 0, 0);
     font-family:fantasy, inherit, sans-serif;
       heigh:665px;
       background-image: url("https://i0.wp.com/eltallerdehector.com/wp-content/uploads/2021/07/batman-logo-png-images-download-free.png?w=700&ssl=1");
       background-repeat;
-      background-size: 10rem;
+      background-size: 10rem;*/
+      font-family:fantasy, inherit, sans-serif;
     }
+
+video
+{
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+
+  top: 50%;
+  left: 50%;
+
+  transform: translateX(-50%) translateY(-50%);
+
+  z-index: -1;
+  -webkit-filter: grayscale(100%);
 }
+
 
 a{   text-decoration: none;
     color:white;
@@ -116,24 +137,24 @@ header #subheader nav ul li a:hover{
     background: #947d22;
     border: solid 20px #16171a;
     margin-bottom: 20px;
-  background-image: url("https://cdn.atomix.vg/wp-content/uploads/2020/11/the-batman.jpg");
+  background-image: url("https://3.bp.blogspot.com/-qcTDQtSBFPw/WARVI8zkE0I/AAAAAAAAads/Vn2liCxIPh8jw609XU4sWl_i0oxfF9RIQCLcB/s640/Gcskyline.png");
   background-repeat;
   background-size: 10rem;
 
 }
 
 #slideshows b{
-  width: 920px;
+  width: 980px;
   height: 200px;
     font-family:sourcesans;
-    font-size: 142px;
-    color: #FCFCFC;
+    font-size: 134px;
+    color: #fff;
     text-align:center;
-    border: solid 28px #FEF300;
+    border: solid 20px #ffffff;
     margin-bottom: 0px;
-  background-image: url("https://cdn.atomix.vg/wp-content/uploads/2020/11/the-batman.jpg");
-  background-repeat;
-  background-size: 8rem;
+    background-image: url("https://3.bp.blogspot.com/-qcTDQtSBFPw/WARVI8zkE0I/AAAAAAAAads/Vn2liCxIPh8jw609XU4sWl_i0oxfF9RIQCLcB/s640/Gcskyline.png");
+    background-repeat;
+    background-size: 8rem;
   margin: 0px 0px;
       border-radius: 5px;
       box-shadow: 0px 2px 2px #303840;/*Sombra*/
