@@ -302,6 +302,12 @@ aside .widget ul li{
   color: white;
 }
 
+#redes-s{
+  color: white;
+  font-size: 15px;
+  font-family:fantasy, inherit, sans-serif;
+}
+
 .videoyt{
   margin: auto;
 }
