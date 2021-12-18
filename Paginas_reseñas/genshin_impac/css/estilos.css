@@ -227,27 +227,26 @@ aside .widget{
     float: left;
 }
 
-aside .widget>h3{
-    background: white;
-    color: #4d78b3;
-    width: 220px;
-    padding: 10px 0px;
-    text-align: center;
-    font-weight: bold;
-    margin-bottom: 10px;
-    
-}
-
-
 aside .widget{
-    color: white;
+    background-color: black;
+    border: paleturquoise 3px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    font-family: "Fredericka the Great", cursive;
+    font-size: 18px;
+    color: rgb(189, 189, 189);
 }
-
-aside .widget ul li{
-    margin-bottom: 5px;
-    font-size: 15px;
+aside .widget2{
+    background-color: black;
+    border: paleturquoise 3px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    font-family: "Fredericka the Great", cursive;
+    font-size: 18px;
+    color: rgb(189, 189, 189);
 }
-
 
 
 
