@@ -75,7 +75,7 @@ header #subheader nav ul li{
 header #subheader nav ul li a {
     color:rgb(0, 0, 0);
     font-size:18px;
-    padding: 10%;
+    padding: 10px;
     border-radius:2px;
     
 }
@@ -153,6 +153,12 @@ header #subheader nav ul li a:hover{
 }
 
 #contenido article .titulo{
+    font-size: 50px;
+    font-family: sourcesans;
+    color:white;
+    
+}
+#contenido article .subtitulo{
     font-size: 22px;
     font-family: sourcesans;
     color:white;
@@ -169,18 +175,28 @@ header #subheader nav ul li a:hover{
 #contenido article .thumb{
     width: 220px; /*largo*/
     height: 150px;/*ancho*/
-    float: left;/*elementos a la izquierda*/
+    float: left;/*elementos a la  izquierda*/
     margin: 0px 10px 10px 0px;
     
 }
 .thumb{ /*imagen formato*/
     width: 220px; /*largo*/
-    height: 150px;/*ancho*/
+    height: 220px;/*ancho*/
     float: left;/*elementos a la izquierda*/
     margin: 0px 10px 10px 0px;
     
 }
 
+.thumb2{ /*imagen centrada del articulo formato*/
+    width: 80%; /*largo*/
+    height: 80%;/*ancho*/
+    margin: auto;
+    display: block;
+}
+.thumb3{ /*video centrada del articulo formato*/
+    margin: auto;
+    display: block;
+}
 #contenido article >p{
     color: #8c8c8c;
     font-size:14px;
@@ -193,7 +209,7 @@ aside {
     width: 220px;
     float: left;
     margin-left: 20px;
-    background: #4d78b3;
+    background-image: url(../../../Estilos_Web/Estilos_imagenes/fondoResnas.jpg);
     padding: 10px 10px 0px 10px;/* arriva-px  derecha-px abajo-px izquierda-px*/   
     border-radius: 5px;/*borde poniendo radios*/
     box-shadow: 0px 2px 2px #000; /* derecha-px abajo-px izquierda-px #color */
@@ -206,29 +222,16 @@ aside .widget{
     float: left;
 }
 
-aside .widget>h3{
-    background: white;
-    color: #4d78b3;
-    width: 220px;
-    padding: 10px 0px;
-    text-align: center;
-    font-weight: bold;
-    margin-bottom: 10px;
-    
-}
-
-
 aside .widget{
-    color: white;
+    background-color: black;
+    border: paleturquoise 3px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    font-family: "Fredericka the Great", cursive;
+    font-size: 18px;
+    color: rgb(189, 189, 189);
 }
-
-<<<<<<< HEAD
-=======
-aside .widget ul li{
-    margin-bottom: 5px;
-    font-size: 15px;
-}
->>>>>>> 43ce561e02fde64b561ca19d46d48d87e3678474
 
 
 
