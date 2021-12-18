@@ -140,6 +140,7 @@ header #subheader nav ul li a:hover{
     margin-bottom: 20px;
   background-image: url("https://img.gameme.eu/Comics/566645194.jpg");
   background-repeat;
+  background-attachment;
   background-size: 10rem;
 
 }
@@ -155,6 +156,10 @@ header #subheader nav ul li a:hover{
     margin-bottom: 0px;
     background-image: url("https://img.gameme.eu/Comics/566645194.jpg");
     background-repeat;
+<<<<<<< HEAD
+=======
+    background-attachment;
+>>>>>>> 752daa5aca2ef023d72f780566e9dbbc0f76e4d5
     background-size: 8rem;
   margin: 0px 0px;
       border-radius: 5px;
