@@ -132,9 +132,9 @@ header #subheader nav ul li a:hover{
 /*slideshow*/
 
 #slideshow{
-    width: 920px;
-    height: 200px;
-    float: left;
+    width: 900px;
+    height: 250px;
+    float: center;
     background: #947d22;
     border: solid 20px #16171a;
     margin-bottom: 20px;
@@ -147,21 +147,23 @@ header #subheader nav ul li a:hover{
 
 #slideshows b{
   width: 920px;
-  height: 200px;
+  height: 150px;
     font-family:sourcesans;
-    font-size: 145px;
+    font-size: 142px;
     color: #FF342D;
     text-align:center;
-    border: solid 20px #ffffff;
+    border: solid 0px #ffffff;
     margin-bottom: 0px;
-    background-image: url("https://img.gameme.eu/Comics/566645194.jpg");
-    background-repeat;
-    background-attachment;
+
     background-size: 8rem;
   margin: 0px 0px;
       border-radius: 5px;
       box-shadow: 0px 2px 2px #303840;/*Sombra*/
-
+.bg{
+  background-image: url("https://img.gameme.eu/Comics/566645194.jpg");
+  background-repeat;
+  background-attachment;
+}
 
 
 }
