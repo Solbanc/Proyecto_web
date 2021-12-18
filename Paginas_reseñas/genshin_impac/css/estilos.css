@@ -232,10 +232,18 @@ aside .widget{
     font-size: 18px;
     color: rgb(189, 189, 189);
 }
+.img_lateral{
+    background-image: url(../media/genshinimpac/elementos.jpg);
+    width: 10%;
+    text-align: center;
+    background-size: 100%;
+    background-position: center;
+}
 
-
-
-
+.fondo_negro{
+    background-color: black;
+    color: blanchedalmond;
+}
 
 
 
