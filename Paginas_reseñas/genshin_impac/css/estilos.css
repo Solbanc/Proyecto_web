@@ -158,12 +158,12 @@ header #subheader nav ul li a:hover{
 }
 
 #contenido article .titulo{
-    font-size: 30px;
+    font-size: 50px;
     font-family: sourcesans;
     color:white;
     
 }
-#contenido article .titulo{
+#contenido article .subtitulo{
     font-size: 22px;
     font-family: sourcesans;
     color:white;
