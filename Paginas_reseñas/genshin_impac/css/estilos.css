@@ -27,10 +27,7 @@ header{
     float: left;
     @font-face
     font-family: sourcesans;
-    background: #ffffff; /* Old browsers */
-    background: -moz-linear-gradient(top, #ffffff 0%, #e4e0e0 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(top, #ffffff 0%,#e4e0e0 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom, #ffffff 0%,#e4e0e0 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background-image: url(../media/fondo_gris.jpg);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e4e0e0',GradientType=0 ); /* IE6-9 */
         box-shadow: 0px 3px 5px #000;
     }
@@ -63,7 +60,7 @@ header{
 /*--Menu --*/
 
 header #subheader nav{
-    float: left;
+    float: right;
     width: 660px;
     padding: 30px 0px;
     text-align: center;
@@ -72,15 +69,13 @@ header #subheader nav{
 
 header #subheader nav ul li{
     display: inline;/*elemtos mostrados en linea*/
-    font-family: sourcesans;
-     
-    
+    font-family: sourcesans;    
 }
 
 header #subheader nav ul li a {
     color:rgb(0, 0, 0);
     font-size:18px;
-    padding: 10px;
+    padding: 10%;
     border-radius:2px;
     
 }
@@ -237,16 +232,7 @@ aside .widget{
     font-size: 18px;
     color: rgb(189, 189, 189);
 }
-aside .widget2{
-    background-color: black;
-    border: paleturquoise 3px solid;
-    padding-left: 10px;
-    padding-right: 10px;
-    border-radius: 20px;
-    font-family: "Fredericka the Great", cursive;
-    font-size: 18px;
-    color: rgb(189, 189, 189);
-}
+
 
 
 
