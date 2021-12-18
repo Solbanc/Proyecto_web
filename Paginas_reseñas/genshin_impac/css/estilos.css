@@ -180,7 +180,7 @@ header #subheader nav ul li a:hover{
 #contenido article .thumb{
     width: 220px; /*largo*/
     height: 150px;/*ancho*/
-    float: left;/*elementos a la izquierda*/
+    float: left;/*elementos a la izquierda */
     margin: 0px 10px 10px 0px;
     
 }
@@ -247,7 +247,6 @@ aside .widget ul li{
     margin-bottom: 5px;
     font-size: 15px;
 }
-
 
 
 
