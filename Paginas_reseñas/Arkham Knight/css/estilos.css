@@ -132,8 +132,8 @@ header #subheader nav ul li a:hover{
 /*slideshow*/
 
 #slideshow{
-    width: 900px;
-    height: 250px;
+    width: 920px;
+    height: 400px;
     float: center;
     background: #947d22;
     border: solid 20px #16171a;
@@ -147,12 +147,12 @@ header #subheader nav ul li a:hover{
 
 #slideshows b{
   width: 920px;
-  height: 150px;
+  height: 200px;
     font-family:sourcesans;
     font-size: 142px;
     color: #FF342D;
     text-align:center;
-    border: solid 0px #ffffff;
+    border: solid 20px #ffffff;
     margin-bottom: 0px;
     background-image: url("https://img.gameme.eu/Comics/566645194.jpg");
     background-repeat;
@@ -233,7 +233,7 @@ background-color: rgb(0, 65, 252);
 #contenido article .fecha{
 
     font-size: 15px;/*tamaño de letra*/
-    color:#5b5c5e;
+    color:#DAC0F1;
     margin-bottom: 5px;/*margen hacia abajo*/
 }
 
@@ -253,7 +253,7 @@ background-color: rgb(0, 65, 252);
 }
 
 #contenido article >p{
-    color: #8c8c8c;
+    color: #FFF;
     font-size:14px;
     text-align: justify;
     line-height: 27px;/*espaciando entre cada linea*/
@@ -296,4 +296,12 @@ aside .widget{
 aside .widget ul li{
     margin-bottom: 5px;
     font-size: 15px;
+}
+
+#copyright{
+  color: white;
+}
+
+.videoyt{
+  margin: auto;
 }
