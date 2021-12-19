@@ -5,6 +5,7 @@ Grupo: 1557
 
 Integrantes:
 
-Espinosa Gomez Javier
-Esteban Rojas Hernandez - esteban300117
-Mirsha Nohely Cortes Sanchez
+1.Espinosa Gomez Javier - Solbanck
+2.Esteban Rojas Hernandez - esteban300117
+3.Mirsha Nohely Cortes Sanchez - MirshaNohely
+4.Quintana Escamilla Roberto Carlos - quintanaesc
